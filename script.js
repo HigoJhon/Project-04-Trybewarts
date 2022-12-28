@@ -24,3 +24,4 @@ function apply() {
   }
 }
 agR.addEventListener('click', apply);
+
