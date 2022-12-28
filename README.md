@@ -5,7 +5,8 @@
 # Projeto:
 https://higojhon.github.io/Project-Trybewarts/
 
-# Projeto em dupla
+# Projeto em trio
 https://github.com/romulorfreitas
+https://github.com/LUCASRAMOSLOBO
 
 ### #VQV!!
